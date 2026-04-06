@@ -1,0 +1,36 @@
+{
+    "users": [
+        {"id": 1, "name": "Amit", "friends": [2, 3, 5], "liked_pages": [101, 102]},
+        {"id": 2, "name": "Priya", "friends": [1, 4, 6], "liked_pages": [103, 104]},
+        {"id": 3, "name": "Rahul", "friends": [1, 7, 8], "liked_pages": [101, 105]},
+        {"id": 4, "name": "Sneha", "friends": [2, 9, 10], "liked_pages": [102, 106]},
+        {"id": 5, "name": "Vikram", "friends": [1, 6, 7], "liked_pages": [107, 108]},
+        {"id": 6, "name": "Kavya", "friends": [2, 5, 8], "liked_pages": [109, 110]},
+        {"id": 7, "name": "Rohit", "friends": [3, 5, 9], "liked_pages": [101, 103]},
+        {"id": 8, "name": "Neha", "friends": [3, 6, 10], "liked_pages": [104, 108]},
+        {"id": 9, "name": "Karan", "friends": [4, 7, 10], "liked_pages": [102, 105]},
+        {"id": 10, "name": "Aisha", "friends": [4, 8, 9], "liked_pages": [106, 107]},
+        {"id": 11, "name": "Ravi", "friends": [12, 13, 15], "liked_pages": [101, 109]},
+        {"id": 12, "name": "Meera", "friends": [11, 14, 16], "liked_pages": [103, 110]},
+        {"id": 13, "name": "Arjun", "friends": [11, 17, 18], "liked_pages": [102, 108]},
+        {"id": 14, "name": "Sanya", "friends": [12, 19, 20], "liked_pages": [104, 107]},
+        {"id": 15, "name": "Deepak", "friends": [11, 16, 17], "liked_pages": [105, 106]}
+    ],
+    "pages": [
+        {"id": 101, "name": "Python Developers"},
+        {"id": 102, "name": "Data Science Enthusiasts"},
+        {"id": 103, "name": "AI & ML Community"},
+        {"id": 104, "name": "Web Dev Hub"},
+        {"id": 105, "name": "Blockchain Innovators"},
+        {"id": 106, "name": "Cybersecurity Experts"},
+        {"id": 107, "name": "Cloud Computing Pros"},
+        {"id": 108, "name": "Competitive Programmers"},
+        {"id": 109, "name": "UI/UX Designers"},
+        {"id": 110, "name": "Full-Stack Developers"},
+        {"id": 111, "name": "Tech Entrepreneurs"},
+        {"id": 112, "name": "IoT Enthusiasts"},
+        {"id": 113, "name": "Game Developers"},
+        {"id": 114, "name": "Open Source Contributors"},
+        {"id": 115, "name": "DevOps Engineers"}
+    ]
+}
